@@ -1,0 +1,29 @@
+.header {
+  background-color: #2E2B2B;
+  text-align:left;
+  font-family:Concert One;
+  padding: 10px 0px 10px 10px;
+}
+
+.topnav {
+	background-color:#BFB3B3;
+	overflow:hidden;
+} 
+
+.topnav a{
+	float: left;
+	color:white;
+	display: inline-block;
+  text-align: center;
+  font-family:Montserrat;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.topnav a:hover{
+	border:1px solid white;
+	background-color:#20E488;
+	transition:all 0.5s ease-in;
+}
+
+
